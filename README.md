@@ -1,7 +1,7 @@
 # ICT171 Cloud Server Project
 
-**Student Name:** Subha Islam 
-**Student Number:** 35854246
+**Student Name:** Subha Islam  
+**Student Number:** 35854246  
 **GitHub Repository:** [https://github.com/suuiisparkle/ICT171_cloud_server_project](https://github.com/suuiisparkle/ICT171_cloud_server_project)  
 **Server IP:** 20.213.11.20  
 **Domain:** suuiisparkle.com  
